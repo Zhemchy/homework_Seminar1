@@ -1,0 +1,16 @@
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.csproj.AssemblyReference.cache
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.AssemblyInfoInputs.cache
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.AssemblyInfo.cs
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.csproj.CoreCompileInputs.cache
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.sourcelink.json
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\bin\Debug\net8.0\зад2.exe
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\bin\Debug\net8.0\зад2.deps.json
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\bin\Debug\net8.0\зад2.runtimeconfig.json
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\bin\Debug\net8.0\зад2.dll
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\bin\Debug\net8.0\зад2.pdb
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.dll
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\refint\зад2.dll
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.pdb
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\зад2.genruntimeconfig.cache
+C:\Users\тачка\Desktop\с#\Homework_Seminar1\зад2\obj\Debug\net8.0\ref\зад2.dll
